@@ -30,4 +30,4 @@ struct basic_ImgData{
 
 class ImgData: public basic_ImgData {
 
-}
+};
